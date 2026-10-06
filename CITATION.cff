@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "Citation metadata for the accompanying research paper is provided in preferred-citation."
+type: software
+title: "Corpus2Skill"
+repository-code: "https://github.com/dukesun99/Corpus2Skill"
+url: "https://arxiv.org/abs/2604.14572"
+license: MIT
+authors:
+  - family-names: Sun
+    given-names: Yiqun
+  - family-names: Wei
+    given-names: Pengfei
+  - family-names: Hsieh
+    given-names: Lawrence B.
+preferred-citation:
+  type: conference-paper
+  collection-title: "Findings of the Association for Computational Linguistics: EMNLP 2026"
+  title: "Corpus2Skill: Distilling Enterprise Knowledge into Navigable Agent Skills for QA and RAG"
+  year: 2026
+  url: "https://arxiv.org/abs/2604.14572"
+  authors:
+    - family-names: Sun
+      given-names: Yiqun
+    - family-names: Wei
+      given-names: Pengfei
+    - family-names: Hsieh
+      given-names: Lawrence B.
